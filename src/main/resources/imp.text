@@ -1,0 +1,8 @@
+if 500 Internal server Error
+
+Login to the gmail account you are sending mail from
+Go to Manage your Google Account -> Security -> Less secure app access -> Turn on access (not recommended)
+or
+Access the URL:
+https://www.google.com/settings/security/lesssecureapps
+Turn "Allow less secure apps: OFF" to "Allow less secure apps: ON"
